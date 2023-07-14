@@ -16,7 +16,7 @@ If you haven't already, fork and clone this lab into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
 in Visual Studio Code.
 
-## Instructions
+## Instructions 
 
 Open up the `test` folder and take a look at `indexTest.js`. Note that some of
 the names of the functions you will be writing begin with `destructively` and
